@@ -1175,5 +1175,21 @@ export default {
   88305: {gems: 630, flags: []}, // Black Lion Outfit Voucher
   88260: {gems: 540, flags: []}, // Black Lion Weapons Voucher
   88308: {gems: 360, flags: []}, // Black Lion Glider Voucher
-  88339: {gems: 630, flags: []} // Black Lion Backpack and Glider Voucher
+  88339: {gems: 630, flags: []}, // Black Lion Backpack and Glider Voucher
+  93974: {gems: 1200, flags: []}, // Bizarre Beasts Mount Select License
+  93997: {gems: 400, flags: []}, // Bizarre Beasts Mount Adoption License
+  94882: {gems: 1200, flags: []}, // Lost Era Mount Select License
+  94887: {gems: 400, flags: []}, // Lost Era Mount Adoption License
+  95268: {gems: 1200, flags: []}, // Deep Wilds Mount Select License
+  95275: {gems: 400, flags: []}, // Deep Wilds Mount Adoption License
+  95032: {gems: 1600, flags: []}, // Royal Anubis Jackal Skin
+  95024: {gems: 1600, flags: []}, // Mossback Skimmer Skin
+  94453: {gems: 1600, flags: []}, // Woodland Sprite Springer Skin
+  94432: {gems: 1600, flags: []}, // Plush Griffon Skin
+  94196: {gems: 1600, flags: []}, // Roadrunner Raptor Skin
+  94150: {gems: 1600, flags: []}, // Sand Lion Warclaw Skin
+  93916: {gems: 1600, flags: []}, // Wild Trihorn Raptor Skin
+  94703: {gems: 1600, flags: []}, // Lunar Maned Skyscale Skin
+  94699: {gems: 1600, flags: []}, // Noble Aurochs Jackal Skin
+  93981: {gems: 1600, flags: []} // Shell Surfer Skimmer Skin
 }
